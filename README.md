@@ -1,2 +1,2 @@
-# trafik
- basit trafik ceza sistemi
+# traffic system
+simple penalty system
